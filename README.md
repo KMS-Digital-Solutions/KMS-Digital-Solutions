@@ -149,7 +149,7 @@ Wir sind **KMS Digital Solutions** – ein innovatives IT-Unternehmen aus Bonn m
 <div align="center">
 
 ### 🚨 **24/7 Emergency Support**
-![Phone](https://img.shields.io/badge/Phone-+49%20228%20123%20456%20789-green?style=for-the-badge&logo=phone&logoColor=white)
+![Phone](https://img.shields.io/badge/Phone-+49%20(0)%20228%2054830%20900-green?style=for-the-badge&logo=phone&logoColor=white)
 
 ### 📧 **E-Mail Support**
 ![Email](https://img.shields.io/badge/Email-support@kmsdigitalsolutions.de-blue?style=for-the-badge&logo=gmail&logoColor=white)
