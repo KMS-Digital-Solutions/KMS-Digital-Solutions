@@ -33,7 +33,6 @@ Wir sind **KMS Digital Solutions** – ein innovatives IT-Unternehmen aus Bonn m
 ### 🌍 **Domain Services**
 ```
 ✅ .de, .com, .net, .org und 500+ weitere TLDs
-✅ Kostenloser Domain-Transfer
 ✅ DNS-Management mit Echtzeit-Updates
 ✅ WHOIS-Privacy Protection inklusive
 ```
@@ -44,7 +43,7 @@ Wir sind **KMS Digital Solutions** – ein innovatives IT-Unternehmen aus Bonn m
 ✅ WordPress, Joomla, Drupal One-Click Installation
 ✅ SSD-Storage für maximale Performance
 ✅ Kostenlose SSL-Zertifikate (Let's Encrypt)
-✅ Tägliche Backups (7 Tage Aufbewahrung)
+✅ Tägliche Backups 
 ```
 
 ### 💻 **vServer (KVM)**
@@ -107,7 +106,7 @@ Wir sind **KMS Digital Solutions** – ein innovatives IT-Unternehmen aus Bonn m
 | ⚡ **Network Speed** | 1 Gbit/s unmetered |
 | 🏃‍♂️ **Response Time** | < 50ms (Deutschland) |
 | 💾 **Storage** | NVMe SSD (bis zu 1M IOPS) |
-| 🔄 **Backup Frequency** | Täglich, 7 Tage Retention |
+| 🔄 **Backup Frequency** | Täglich |
 
 </div>
 
@@ -160,9 +159,9 @@ Wir sind **KMS Digital Solutions** – ein innovatives IT-Unternehmen aus Bonn m
 
 ### 📍 **Adresse**
 ```
-KMS Digital Solutions GmbH
-Musterstraße 123
-53111 Bonn, Deutschland
+Krückeberg, Menne, Steidle Digital Solutions GbR
+Oppelner Straße 16
+53119 Bonn, Deutschland
 ```
 
 </div>
