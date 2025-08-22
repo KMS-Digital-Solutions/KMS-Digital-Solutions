@@ -118,7 +118,7 @@ Wir sind **KMS Digital Solutions** – ein innovatives IT-Unternehmen aus Bonn m
 ```
 🇩🇪 Hauptstandort: Bonn, Deutschland
 🏢 Rechenzentren: Frankfurt am Main, Düsseldorf
-🌐 Network: Tier-1 Provider (Telekom, Vodafone, Level3)
+🌐 Network: Tier-1 Provider
 🔐 Zertifizierungen: ISO 27001, DSGVO-konform
 ⚡ Stromversorgung: 100% Ökostrom, redundante USV
 ```
@@ -187,10 +187,7 @@ Musterstraße 123
 | Resource | Link |
 |----------|------|
 | 🌐 **Website** | [kmsdigitalsolutions.de](https://www.kmsdigitalsolutions.de) |
-| 🎛️ **Customer Portal** | [my.kmsdigitalsolutions.de](https://my.kmsdigitalsolutions.de) |
-| 📊 **Server Status** | [status.kmsdigitalsolutions.de](https://status.kmsdigitalsolutions.de) |
-| 📚 **Knowledge Base** | [docs.kmsdigitalsolutions.de](https://docs.kmsdigitalsolutions.de) |
-| 🐛 **Bug Reports** | [support.kmsdigitalsolutions.de](https://support.kmsdigitalsolutions.de) |
+| 🎛️ **Customer Portal** | [kundenaccess.de](https://kundenaccess.de) |
 
 ---
 
@@ -202,9 +199,9 @@ Musterstraße 123
 
 ### 🏆 **Unsere Erfolgsgeschichte**
 - 🎯 **5+ Jahre** Erfahrung im Hosting-Bereich
-- 👥 **1000+ zufriedene Kunden** vertrauen uns
+- 👥 **100+ zufriedene Kunden** vertrauen uns
 - 💾 **50+ TB** Daten sicher verwaltet
-- ⚡ **99.97%** durchschnittliche Uptime in 2024
+- ⚡ **99.97%** durchschnittliche Uptime in 2025
 - 🏅 **4.9/5** Kundenbewertung
 
 ---
